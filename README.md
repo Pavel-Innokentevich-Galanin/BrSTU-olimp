@@ -4,4 +4,5 @@
 - [x] [D. LeverX group 2](D) - Accepted!
 - [x] [E. LeverX group 3](E) - Accepted!
 - [ ] [F. EPAM Systems 1](F) - Если любой тест проходит, почему "Wrong Answer test 1"?
+- [ ] [G. EPAM Systems 2](G)
 - [x] [H. EPAM Systems 3](H) - Accepted!
