@@ -1,5 +1,6 @@
-- [x] [A. Эполь Софт 1](A)
-- [x] [C. LeverX group 1](C)
-- [x] [D. LeverX group 2](D)
-- [x] [E. LeverX group 3](E)
-- [x] [H. EPAM Systems 3](H)
+- [x] [A. Эполь Софт 1](A) - Accepted!
+- [ ] [B. Эполь Софт 2](B) - Wrong Answer test 3
+- [x] [C. LeverX group 1](C) - Accepted!
+- [x] [D. LeverX group 2](D) - Accepted!
+- [x] [E. LeverX group 3](E) - Accepted!
+- [x] [H. EPAM Systems 3](H) - Accepted!
